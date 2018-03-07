@@ -1,0 +1,89 @@
+/*=============================================
+    Template Name   : Consult | HTML5 Template
+    Template URL    : http://template.helloxpart.com/consult
+    Author          : helloxpart
+    Version         : 1.0
+    Tags            : Consultancy, Consult
+===============================================*/
+
+/*=========== TABLE OF CONTENTS ============
+
+    01. General Css
+
+======================================*/
+
+/*======================
+   01. General Css
+========================*/
+* {
+    padding: 0;
+    margin: 0;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    color: #272727;
+    line-height: 24px;
+    max-width: 1920px;
+    margin: 0 auto;
+}
+a, 
+a:hover,
+a:active, 
+a:focus {
+    text-decoration: none;
+    color: #000;
+    outline: 0;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-weight: normal;
+    font-family: 'Montserrat', sans-serif;
+}
+p {
+    margin: 0;
+    line-height: 24px;
+}
+ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+select, input, textarea {
+    outline: 0;
+}
+html, body {
+    height: 100%;
+    overflow: visible;
+}
+.nopadding {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.floatleft {
+    float: left;
+}
+.floatright {
+    float: right;
+}
+.fix {
+    overflow: hidden;
+}
+.container {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.image_fulwidth img {
+    width: 100%;
+}
+.para_default p {
+    color: #999;
+    font-size: 15px;
+    line-height: 29px;
+}
